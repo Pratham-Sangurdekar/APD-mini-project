@@ -1,2 +1,2 @@
 # APD-mini-project
-Attendance marking system for smart classrooms 
+##Attendance marking system for smart classrooms 
